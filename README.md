@@ -10,3 +10,5 @@
 除了 `.exe` 大概都能用（我没有这两个设备没试，但是 `.py` 应该是能编译的）
 ### 3. Android & iOS用户
 似乎只有 `.html` 能用，但是Android似乎可以自己编译python和运行exe
+
+Tips：所有代码都是AI生成的，exe是我自己打包的（感谢Qwen3-Coder）
